@@ -50,7 +50,7 @@ export default function Home() {
         <Publications language={language} />
       </section>
 
-      {/* Gallery Section */}
+      {/* Gallery Section hello */}
       <section id="gallery">
         <Gallery language={language} />
       </section>
